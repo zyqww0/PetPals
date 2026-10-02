@@ -42,6 +42,3 @@ The project will include:
 | Week 3:
 | Week 4:
 | Week 5:
-| Week 2 | UI/UX design and dat| Week 3 | Front-end development |
-| Week 4 | Back-end development and system integration |
-| Week 5 | Testing, bug fixing and final documentation |
